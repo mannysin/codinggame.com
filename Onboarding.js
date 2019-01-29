@@ -22,5 +22,11 @@ while (true) {
     // Write an action using print()
     
     // Enter the code here
+    
+    if (dist1 < dist2) {
+        print(enemy1);
+    } else {
+        print(enemy2);
+    }
 
 }
